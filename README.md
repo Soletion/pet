@@ -1,6 +1,6 @@
-#Descripción
+Descripción
 Un simulador de pet en java con opciones sencillas. 
 
-#Características
+Características
 Opción para alimentar.
 Opción para jugar.
